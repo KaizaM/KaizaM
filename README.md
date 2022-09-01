@@ -1,5 +1,4 @@
-- Hi! I'm Kai, a civil engineering graduate from Georgia Tech!
-- I am currently working as a Senior Logistics Data Analyst at The Home Depot.
+- Hi! I'm Kai, I am currently working as a Senior Logistics Data Analyst at The Home Depot.
 - I currently am studying in the Georgia Tech Data Science and Analytics Bootcamp and self-learning online.
 - In the future, I want to work as a software engineer and attempt to solve complex problems! 
 - Thanks!!
