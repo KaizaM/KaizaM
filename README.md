@@ -1,4 +1,4 @@
-- Hi! I'm Kai, I am currently working as a Senior Logistics Data Analyst at The Home Depot.
-- I currently am studying in the Georgia Tech Data Science and Analytics Bootcamp and self-learning online.
-- In the future, I want to work as a software engineer and attempt to solve complex problems! 
-- Thanks!!
+- Hi! I'm Kai. I am currently working as a Senior Logistics Data Analyst at The Home Depot.
+- Experience in Excel, VBA, Python, SQL, and Tableau from the Data Science and Analytics Bootcamp program at Georgia Tech.
+- Curiosity in creating new functions and automating methods to analyze data. Enjoys implementing different knowledge groups and concepts into one project.
+- Thank you!
