@@ -1,4 +1,4 @@
 - Hi! I'm Kai. I am currently working as a Senior Logistics Data Analyst at The Home Depot.
-- Experience in Excel, VBA, Python, SQL, and Tableau from the Data Science and Analytics Bootcamp program at Georgia Tech.
-- Curiosity in creating new functions and automating methods to analyze data. Enjoys implementing different knowledge groups and concepts into one project.
+- Experience in Python, SQL, Tableau, Excel, and VBA.
+- Curiosity in automation tasks. Enjoys implementing different knowledge groups and concepts into one project.
 - Thank you!
