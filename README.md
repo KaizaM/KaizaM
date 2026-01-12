@@ -1,4 +1,4 @@
-- Hi! I'm Kai, currently working as a Senior Data Analyst at Cox Communications.
+- Hi! I'm Kai, currently working as a Senior BI Analyst at Cox Automotive.
 - Experience in Python, SQL, Tableau, and PowerBI. I'm now studying ML and AI.
 - Curiosity in automation tasks. Enjoys implementing different knowledge groups and concepts into one project.
 - Thank you!
